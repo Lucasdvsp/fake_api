@@ -1,0 +1,43 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "nome do curso": " MTEC-PI Desenvolvimento de Sistemas",
+            "Disciplinas":[
+                "Programação e Algoritmos",
+                "Sistemas Embarcados e IoT",
+                "Banco de Dados I e II",
+                "Programação Web I, II e III",
+                "Análise e Projeto de Sistemas",
+                "Projetos de Desenvolvimento de Sistemas",
+                "Desenvolvimento de Ssitemas I e II",
+                "Programação de Aplicativos Mobile I e II",
+                "Computação em Nuvem",
+                "Conduta Profissional e Relações de Trabalho",
+                "Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Desenvolvimento de Sistemas"
+            ],
+            "carga-horaria": 3600,
+            "link-plano-de-curso": "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/96/2026/03/Desenvolvimento-de-Sistemas-2026-MTec-PI-1064-1a-Serie-1.pdf"
+        },
+        {
+            "id": 2,
+            "nome do curso": "Mtec-N Informática",
+            "Disciplinas":[
+                "Gestão de Sistemas Operacionais I, II e III",
+                "Programação de Computadores",
+                "Instalação e Manutenção de Computadores",
+                "Projetos de Informática",
+                "Desenvolvimento de Sistemas Embarcados e Internet das Coisas",
+                "Modelagem de Banco de Dados",
+                "Suporte a Banco de Dados",
+                "Redes de Comunicação de Dados",
+                "Suporte ao Usuário",
+                "Suporte em Informática",
+                "Computação em Nuvem",
+                "Segurança Digital"
+            ],
+            "carga-horaria": 3300,
+            "link-plano-de-curso": "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/96/2026/03/Informatica-2026-MTec-N-1177-1a-serie-1.pdf"
+        }
+    ]
+}

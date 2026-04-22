@@ -1,9 +1,9 @@
 {
-    "cursos":[
+    "cursos-etec-taboao-da-serra":[
         {
             "id": 1,
-            "nome do curso": " MTEC-PI Desenvolvimento de Sistemas",
-            "Disciplinas":[
+            "nome-do-curso": " MTEC-PI Desenvolvimento de Sistemas",
+            "disciplinas":[
                 "Programação e Algoritmos",
                 "Sistemas Embarcados e IoT",
                 "Banco de Dados I e II",
@@ -21,8 +21,8 @@
         },
         {
             "id": 2,
-            "nome do curso": "Mtec-N Informática",
-            "Disciplinas":[
+            "nome-do-curso": "Mtec-N Informática",
+            "disciplinas":[
                 "Gestão de Sistemas Operacionais I, II e III",
                 "Programação de Computadores",
                 "Instalação e Manutenção de Computadores",
@@ -38,6 +38,51 @@
             ],
             "carga-horaria": 3300,
             "link-plano-de-curso": "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/96/2026/03/Informatica-2026-MTec-N-1177-1a-serie-1.pdf"
+        },
+        {
+            "id": 3,
+            "nome-do-curso": "Mtec-N Informática para Internet",
+            "disciplinas":[
+                "Interfaces Web I, II e III",
+                "Projetos de Tecnologia da Informação e Comunicação",
+                "Programação e Algoritmos",
+                "Arte Digital",
+                "Banco de Dados",
+                "Conduta Profissional e Relações de Trabalho",
+                "Computação em Nuvem",
+                "Gestão de Conteúdo Web",
+                "Programação de Aplicativos Mobile I e II",
+                "Sistemas Web I e II"
+            ],
+            "carga-horaria": 3100,
+            "link-plano-de-curso": "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/96/2026/03/Informatica-para-Internet-2026-MTec-N-1140-1a-Serie_corrigido.pdf"
+        },
+        {
+            "id": 4,
+            "nome-do-curso": "Técnico em Informática",
+            "disciplinas":[
+                "Linguagem, Trabalho e Tecnologia",
+                "Suporte ao Usuário",
+                "Operação e Configuração de Aplicativos",
+                "Gestão de Sistemas Operacionais I, II e III",
+                "Sistemas de Tecnologia de Informação e Comunicação",
+                "Instalação e Manutenção de Computadores",
+                "Programação de Computadores I e II",
+                "Modelagem de Banco de Dados",
+                "Suporte em Informática",
+                "Desenvolvimento de Sistemas Embarcados",
+                "Redes de Comunicação de Dados I e II",
+                "Suporte a Banco de Dados",
+                "Planejamento do Trabalho de Conclusão de Curso (TCC) em Informática",
+                "Inglês Instrumental",
+                "Segurança Digital",
+                "Internet das Coisas",
+                "Computação em Nuvem e Mídias Sociais",
+                "Ética e Cidadania Organizacional",
+                "Desenvolvimento de Trabalho de Conclusão de Curso (TCC) em Informática"
+            ],
+            "carga-horaria": 1200,
+            "link-plano-de-curso": "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/96/2026/03/Tecnico-em-Informatica-935.pdf"
         }
     ]
 }

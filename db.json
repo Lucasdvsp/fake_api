@@ -4,6 +4,7 @@
             "id": 1,
             "nome-do-curso": " MTEC-PI Desenvolvimento de Sistemas",
             "disciplinas":[
+                "Projetos de Tecnologia de Informação e Comunicação",
                 "Programação e Algoritmos",
                 "Sistemas Embarcados e IoT",
                 "Banco de Dados I e II",

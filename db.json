@@ -1,95 +1,22 @@
 {
-    "cursos-etec-taboao-da-serra":[
+    "cursos": [
         {
             "id": 1,
-            "nome-do-curso": " MTEC-PI Desenvolvimento de Sistemas",
-            "disciplinas":[
-                "Projetos de Tecnologia de Informação e Comunicação",
-                "Programação e Algoritmos",
-                "Sistemas Embarcados e IoT",
-                "Banco de Dados I e II",
-                "Programação Web I, II e III",
-                "Análise e Projeto de Sistemas",
-                "Projetos de Desenvolvimento de Sistemas",
-                "Desenvolvimento de Sistemas I e II",
-                "Programação de Aplicativos Mobile I e II",
-                "Computação em Nuvem",
-                "Conduta Profissional e Relações de Trabalho",
-                "Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Desenvolvimento de Sistemas"
-            ],
-            "professores":[
-                {"id": 1, "nome":"Jean Carlo Wagner"},
-                {"id": 2, "nome":"Francisco dos Santos Saiz"},
-                {"id": 3, "nome":"Alícia Stefany da Silva"},
-                {"id": 4, "nome":"Daniel Rondini Gussoni"}
-            ]
-            "carga-horaria": 3600,
-            "link-plano-de-curso": "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/96/2026/03/Desenvolvimento-de-Sistemas-2026-MTec-PI-1064-1a-Serie-1.pdf"
+            "nome": "M-Tec-PI Desenvolvimento de Sistemas",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
         },
         {
             "id": 2,
-            "nome-do-curso": "Mtec-N Informática",
-            "disciplinas":[
-                "Gestão de Sistemas Operacionais I, II e III",
-                "Programação de Computadores",
-                "Instalação e Manutenção de Computadores",
-                "Projetos de Informática",
-                "Desenvolvimento de Sistemas Embarcados e Internet das Coisas",
-                "Modelagem de Banco de Dados",
-                "Suporte a Banco de Dados",
-                "Redes de Comunicação de Dados",
-                "Suporte ao Usuário",
-                "Suporte em Informática",
-                "Computação em Nuvem",
-                "Segurança Digital"
-            ],
-            "carga-horaria": 3300,
-            "link-plano-de-curso": "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/96/2026/03/Informatica-2026-MTec-N-1177-1a-serie-1.pdf"
-        },
-        {
-            "id": 3,
-            "nome-do-curso": "Mtec-N Informática para Internet",
-            "disciplinas":[
-                "Interfaces Web I, II e III",
-                "Projetos de Tecnologia da Informação e Comunicação",
-                "Programação e Algoritmos",
-                "Arte Digital",
-                "Banco de Dados",
-                "Conduta Profissional e Relações de Trabalho",
-                "Computação em Nuvem",
-                "Gestão de Conteúdo Web",
-                "Programação de Aplicativos Mobile I e II",
-                "Sistemas Web I e II"
-            ],
-            "carga-horaria": 3100,
-            "link-plano-de-curso": "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/96/2026/03/Informatica-para-Internet-2026-MTec-N-1140-1a-Serie_corrigido.pdf"
-        },
-        {
-            "id": 4,
-            "nome-do-curso": "Técnico em Informática",
-            "disciplinas":[
-                "Linguagem, Trabalho e Tecnologia",
-                "Suporte ao Usuário",
-                "Operação e Configuração de Aplicativos",
-                "Gestão de Sistemas Operacionais I, II e III",
-                "Sistemas de Tecnologia de Informação e Comunicação",
-                "Instalação e Manutenção de Computadores",
-                "Programação de Computadores I e II",
-                "Modelagem de Banco de Dados",
-                "Suporte em Informática",
-                "Desenvolvimento de Sistemas Embarcados",
-                "Redes de Comunicação de Dados I e II",
-                "Suporte a Banco de Dados",
-                "Planejamento do Trabalho de Conclusão de Curso (TCC) em Informática",
-                "Inglês Instrumental",
-                "Segurança Digital",
-                "Internet das Coisas",
-                "Computação em Nuvem e Mídias Sociais",
-                "Ética e Cidadania Organizacional",
-                "Desenvolvimento de Trabalho de Conclusão de Curso (TCC) em Informática"
-            ],
-            "carga-horaria": 1200,
-            "link-plano-de-curso": "https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/96/2026/03/Tecnico-em-Informatica-935.pdf"
+            "nome": "M-Tec-N Informática para internet",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
         }
+    ],
+    "professores":[
+        {"id": 1, "nome":"Jean"},
+        {"id": 2, "nome":"Francisco"},
+        {"id": 3, "nome":"Alícia"},
+        {"id": 4, "nome":"Daniel"}
     ]
 }
